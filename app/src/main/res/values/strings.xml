@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app4</string>
+    <string name="campo_palabra">Ingresar Texto</string>
+    <string name="button_process">Procesar</string>
+    <string name="button_count">Contar</string>
+    <string name="check_lowercase">Minusculas</string>
+</resources>
